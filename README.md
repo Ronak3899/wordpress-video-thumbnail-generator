@@ -1,0 +1,1 @@
+# wordpress-video-thumbnail-generator
